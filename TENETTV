@@ -17,35 +17,43 @@ https://live.mana2.my/Tv1/tracks-v1a1/mono.m3u8?token=1739540889-0c2cfbf6b252482
 https://live.mana2.my/TvAlhijrah/tracks-v1a1/mono.m3u8?token=1739541075-ff9736d3e46e4ba08560b53950daf702-0-8423b577aded3093fc24f5abedf2aacb&auth_key=1739541075-ff9736d3e46e4ba08560b53950daf702-0-8c27cd75040e6a60a77da16bfcc28e4b
 
 #SUKAN RTM
-#EXTINF:-1 group-title="TV MALAYSIA" group-logo="https://raw.githubusercontent.com/akulahtuh/TVTENET/refs/heads/main/pngegg%20(21).png" tvg-logo="",SUKAN RTM
+#EXTINF:-1 group-title="TV MALAYSIA" group-logo="https://raw.githubusercontent.com/akulahtuh/TVTENET/refs/heads/main/pngegg%20(21).png" tvg-logo="https://raw.githubusercontent.com/akulahtuh/TVTENET/refs/heads/main/pngegg%20(41).png",SUKAN RTM
+https://live.mana2.my/SukanRtm/tracks-v3a1/mono.m3u8?token=1739541157-12cb598349224f2d9b0512cf0a9eeec0-0-c58efbbbc8adce2504573744640ea4fe&auth_key=1739541157-12cb598349224f2d9b0512cf0a9eeec0-0-357309e592cd09b78437eab2ab454863
 
+#BERITA RTM
+#EXTINF:-1 group-title="TV MALAYSIA" group-logo="https://raw.githubusercontent.com/akulahtuh/TVTENET/refs/heads/main/pngegg%20(21).png" tvg-logo="https://raw.githubusercontent.com/akulahtuh/TVTENET/refs/heads/main/pngegg%20(41).png",BERITA RTM
+https://live.mana2.my/BeritaRtm/tracks-v1a1/mono.m3u8?token=1739541363-39a4957db71847cc8c538bdc6c63c903-0-c41d5412b41695f6456d04e3a11452fe&auth_key=1739541363-39a4957db71847cc8c538bdc6c63c903-0-cd19d18dde882f97a02e80747298cf60
 
-#
-#EXTINF:-1 group-title="TV MALAYSIA" group-logo="https://raw.githubusercontent.com/akulahtuh/TVTENET/refs/heads/main/pngegg%20(21).png" tvg-logo="",
+#TVS
+#EXTINF:-1 group-title="TV MALAYSIA" group-logo="https://raw.githubusercontent.com/akulahtuh/TVTENET/refs/heads/main/pngegg%20(21).png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png",TVS
+https://live.mana2.my/TvS/tracks-v3a1/mono.m3u8?token=1739541423-2f93571d13214a3189cb48116fe89666-0-2ebdff917043589b55217ba513f66434&auth_key=1739541423-2f93571d13214a3189cb48116fe89666-0-ac4bfa25586b0b84dcc4ca3f6eef4f17
 
-#
-#EXTINF:-1 group-title="TV MALAYSIA" group-logo="https://raw.githubusercontent.com/akulahtuh/TVTENET/refs/heads/main/pngegg%20(21).png" tvg-logo="",
+#TV6
+#EXTINF:-1 group-title="TV MALAYSIA" group-logo="https://raw.githubusercontent.com/akulahtuh/TVTENET/refs/heads/main/pngegg%20(21).png" tvg-logo="https://raw.githubusercontent.com/akulahtuh/TVTENET/refs/heads/main/pngegg%20(41).png",TV6
+https://live.mana2.my/Tv6/tracks-v3a1/mono.m3u8?token=1739541640-2146b43c790e4f61b570259b36307ce9-0-0fd89cdf6845ab9a38aad91c3146241b&auth_key=1739541640-2146b43c790e4f61b570259b36307ce9-0-1be4ecc1f4655821504a8f4b437c2163
 
-#
-#EXTINF:-1 group-title="TV MALAYSIA" group-logo="https://raw.githubusercontent.com/akulahtuh/TVTENET/refs/heads/main/pngegg%20(21).png" tvg-logo="",
+#TV OKEY
+#EXTINF:-1 group-title="TV MALAYSIA" group-logo="https://raw.githubusercontent.com/akulahtuh/TVTENET/refs/heads/main/pngegg%20(21).png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/467_144.png",TV OKEY
 
-#
-#EXTINF:-1 group-title="TV MALAYSIA" group-logo="https://raw.githubusercontent.com/akulahtuh/TVTENET/refs/heads/main/pngegg%20(21).png" tvg-logo="",
+#BERNAMA
+#EXTINF:-1 group-title="TV MALAYSIA" group-logo="https://raw.githubusercontent.com/akulahtuh/TVTENET/refs/heads/main/pngegg%20(21).png" tvg-logo="https://raw.githubusercontent.com/akulahtuh/TVTENET/refs/heads/main/pngegg%20(41).png",BERNAMA
+https://live.mana2.my/Bernama/tracks-v3a1/mono.m3u8?token=1739541909-84fc35c75df140cc810f8f16d0f4f2e7-0-f8f8006c571505e7875c759227004e5d&auth_key=1739541909-84fc35c75df140cc810f8f16d0f4f2e7-0-9c73f38a6ba53825c4c03cafc6a4bfcc
 
-#
-#EXTINF:-1 group-title="TV MALAYSIA" group-logo="https://raw.githubusercontent.com/akulahtuh/TVTENET/refs/heads/main/pngegg%20(21).png" tvg-logo="",
+#SUKE TV
+#EXTINF:-1 group-title="TV MALAYSIA" group-logo="https://raw.githubusercontent.com/akulahtuh/TVTENET/refs/heads/main/pngegg%20(21).png" tvg-logo="https://www.suketv.com/sitepad-data/uploads/2023/06/logo-STV.png",SUKE TV
+https://live.mana2.my/SukeTv/tracks-v3a1/mono.m3u8?token=1739541984-817a0b587f1d4683aa31488507671f6b-0-f6295d4d9b6cdd2311a8dcaf3c555c5f&auth_key=1739541984-817a0b587f1d4683aa31488507671f6b-0-95082b326c01c69e075dbf2ece3ee7ef
 
-#
-#EXTINF:-1 group-title="TV MALAYSIA" group-logo="https://raw.githubusercontent.com/akulahtuh/TVTENET/refs/heads/main/pngegg%20(21).png" tvg-logo="",
+#SELANGOR TV
+#EXTINF:-1 group-title="TV MALAYSIA" group-logo="https://raw.githubusercontent.com/akulahtuh/TVTENET/refs/heads/main/pngegg%20(21).png" tvg-logo="https://selangortv.my/wp-content/uploads/2020/10/cropped-SelangorTV2.png",SELANGOR TV
+https://live.mana2.my/SelangorTv/tracks-v3a1/mono.m3u8?token=1739542088-a1062c0f53a34304bd3a882041794c6e-0-0c4320131c6901e1da548fea6c545854&auth_key=1739542088-a1062c0f53a34304bd3a882041794c6e-0-c04ba60a5bca9aeba5d6e8cc8d2bff21
 
-#
-#EXTINF:-1 group-title="TV MALAYSIA" group-logo="https://raw.githubusercontent.com/akulahtuh/TVTENET/refs/heads/main/pngegg%20(21).png" tvg-logo="",
+#TV IKIM
+#EXTINF:-1 group-title="TV MALAYSIA" group-logo="https://raw.githubusercontent.com/akulahtuh/TVTENET/refs/heads/main/pngegg%20(21).png" tvg-logo="https://www.tvikim.my/images/header-tvikim-logo-white.png",TV IKIM
+https://live.mana2.my/TvIkim/tracks-v3a1/mono.m3u8?token=1739542208-0dcf11d0a8134146b0e51ec0b60c0bb9-0-3997ee7fd70f554e248d3a79b438ebe8&auth_key=1739542208-0dcf11d0a8134146b0e51ec0b60c0bb9-0-d36b5eb4b2d4dd3d219f1332319df994
 
-#
-#EXTINF:-1 group-title="TV MALAYSIA" group-logo="https://raw.githubusercontent.com/akulahtuh/TVTENET/refs/heads/main/pngegg%20(21).png" tvg-logo="",
-
-#
-#EXTINF:-1 group-title="TV MALAYSIA" group-logo="https://raw.githubusercontent.com/akulahtuh/TVTENET/refs/heads/main/pngegg%20(21).png" tvg-logo="",
+#AFL TV
+#EXTINF:-1 group-title="TV MALAYSIA" group-logo="https://raw.githubusercontent.com/akulahtuh/TVTENET/refs/heads/main/pngegg%20(21).png" tvg-logo="https://raw.githubusercontent.com/akulahtuh/TVTENET/refs/heads/main/pngegg%20(41).png",AFL TV
+https://live.mana2.my/AFL/tracks-v1a1/mono.m3u8?token=1739542321-35195e730fcb4f2b873311b7d1974275-0-01b009d0f73f1b0fd9e7f8a9ad6bee94&auth_key=1739542321-35195e730fcb4f2b873311b7d1974275-0-097c3bf411e7d29dedac19c56f7e1c01
 
 #
 #EXTINF:-1 group-title="TV MALAYSIA" group-logo="https://raw.githubusercontent.com/akulahtuh/TVTENET/refs/heads/main/pngegg%20(21).png" tvg-logo="",
