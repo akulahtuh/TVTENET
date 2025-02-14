@@ -55,12 +55,14 @@ https://live.mana2.my/TvIkim/tracks-v3a1/mono.m3u8?token=1739542208-0dcf11d0a813
 #EXTINF:-1 group-title="TV MALAYSIA" group-logo="https://raw.githubusercontent.com/akulahtuh/TVTENET/refs/heads/main/MALAY.png" tvg-logo="https://raw.githubusercontent.com/akulahtuh/TVTENET/refs/heads/main/VIDEO.png",AFL TV
 https://live.mana2.my/AFL/tracks-v1a1/mono.m3u8?token=1739542321-35195e730fcb4f2b873311b7d1974275-0-01b009d0f73f1b0fd9e7f8a9ad6bee94&auth_key=1739542321-35195e730fcb4f2b873311b7d1974275-0-097c3bf411e7d29dedac19c56f7e1c01
 
-#
-#EXTINF:-1 group-title="TV MALAYSIA" group-logo="https://raw.githubusercontent.com/akulahtuh/TVTENET/refs/heads/main/MALAY.png" tvg-logo="",
+#TV3
+#EXTINF:-1 group-title="TV MALAYSIA" group-logo="https://raw.githubusercontent.com/akulahtuh/TVTENET/refs/heads/main/MALAY.png" tvg-logo="https://www.tvmalaysia.org/wp-content/uploads/2023/04/RTM-TV3-200x112.png",TV3
+https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master_1080.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311&bpkio_sessionid=10f3d41f51-6c7af512-0005-45a5-950a-a0066af7cc1b&category=all&mm_sp=
 
 
-#
-#EXTINF:-1 group-title="TV MALAYSIA" group-logo="https://raw.githubusercontent.com/akulahtuh/TVTENET/refs/heads/main/MALAY.png" tvg-logo="",
+#TV9
+#EXTINF:-1 group-title="TV MALAYSIA" group-logo="https://raw.githubusercontent.com/akulahtuh/TVTENET/refs/heads/main/MALAY.png" tvg-logo="https://www.tvmalaysia.org/wp-content/uploads/2023/04/RTM-TV9-200x112.png",TV9
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live09-1080FHD-164636.m4a
 
 #
 #
